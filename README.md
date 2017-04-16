@@ -1,4 +1,4 @@
-# assingments
+# assignments
 
 [assignment week 2](https://github.com/mariekespan/assingments/blob/master/Assignment_week_2.ipynb)
 [assignment week 4](
