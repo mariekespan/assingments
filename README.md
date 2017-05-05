@@ -6,4 +6,4 @@
 
 [assignment week 5](https://github.com/mariekespan/assingments/blob/master/Assignment_week_5.ipynb)
 
-[assignment week 6](https://github.com/mariekespan/assingments/blob/master/assignment4%20(2).ipynb)
+[assignment week 6](https://github.com/mariekespan/assingments/blob/master/assignment4.ipynb)
