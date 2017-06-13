@@ -10,6 +10,6 @@
 
 [assignment week 8](https://github.com/mariekespan/assingments/blob/master/assignment5.ipynb)
 
-[python exam](https://github.com/mariekespan/assingments/blob/master/Final_Assignment_Python_1_students.ipynb)
+[final python assignment](https://github.com/mariekespan/assingments/blob/master/Final_Assignment_Python_1_students.ipynb)
 
-[r exam](https://github.com/mariekespan/assingments/blob/master/OECD_R_exam.ipynb)
+[final R assignment](https://github.com/mariekespan/assingments/blob/master/OECD_R_exam.ipynb)
